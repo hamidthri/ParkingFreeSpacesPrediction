@@ -15,8 +15,8 @@ __Neural Network Architecture__: The code defines a neural network model named M
 
 2. __Real-Time Visualization__: During training, the code dynamically updates two plots in real-time:
 
-..*Loss Plot: Displays the training loss over epochs, showing how the loss decreases during training.
-..*Prediction Plot: Displays the model predictions vs. actual values for a subset of the testing data. The prediction plot is updated at regular intervals during training.
+⋅⋅*Loss Plot: Displays the training loss over epochs, showing how the loss decreases during training.
+⋅⋅*Prediction Plot: Displays the model predictions vs. actual values for a subset of the testing data. The prediction plot is updated at regular intervals during training.
 3. Interactive Mode: The Matplotlib interactive mode is used to enable real-time visualization.
 
 ## Key Components:
