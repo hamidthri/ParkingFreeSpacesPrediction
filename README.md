@@ -2,7 +2,7 @@
 This Python code demonstrates a complete deep learning training process using PyTorch for predicting car park occupancy. The process involves data preprocessing, model creation, training loop execution, and real-time visualization of the training loss and model predictions.
 
 ## Data Preprocessing:
-*Data Loading*: The code loads data from a CSV file named "parking_1h.csv" using the Pandas library. It filters the dataset to select records for car park ID 51 and sorts them by the ID.
+__Data Loading__: The code loads data from a CSV file named "parking_1h.csv" using the Pandas library. It filters the dataset to select records for car park ID 51 and sorts them by the ID.
 
 Feature Engineering: The "current_carpark_full_total" column values are normalized to ensure consistent input ranges for the neural network.
 
