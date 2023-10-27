@@ -1,4 +1,4 @@
-# Deep Learning Training Process with Real-Time Visualization
+# Deep Learning Training Process 
 This Python code demonstrates a complete deep learning training process using PyTorch for predicting car park occupancy. The process involves data preprocessing, model creation, training loop execution, and real-time visualization of the training loss and model predictions.
 
 ## Data Preprocessing:
