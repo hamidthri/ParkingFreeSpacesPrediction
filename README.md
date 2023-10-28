@@ -17,10 +17,10 @@ __Neural Network Architecture__: The code defines a neural network model named M
 
 * Loss Plot: Displays the training loss over epochs, showing how the loss decreases during training.
 * Prediction Plot: Displays the model predictions vs. actual values for a subset of the testing data. The prediction plot is updated at regular intervals during training.
-3. Interactive Mode: The Matplotlib interactive mode is used to enable real-time visualization.
+3. __Interactive Mode__: The Matplotlib interactive mode is used to enable real-time visualization.
 
 ## Key Components:
-1. Data Preprocessing: Pandas for data loading and preprocessing, NumPy for numerical operations.
-2. Deep Learning: PyTorch for defining and training the neural network.
-3. Visualization: Matplotlib for creating real-time plots.
+1. __Data Preprocessing__: Pandas for data loading and preprocessing, NumPy for numerical operations.
+2. __Deep Learning__: PyTorch for defining and training the neural network.
+3. __Visualization__: Matplotlib for creating real-time plots.
 This code provides a comprehensive example of a deep learning training process with live visualization, allowing for a better understanding of how the model evolves and improves over epochs.
