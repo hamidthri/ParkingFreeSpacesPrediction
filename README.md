@@ -11,7 +11,7 @@ __Data Splitting__: The preprocessed data is split into training and testing set
 ## Model Definition:
 __Neural Network Architecture__: The code defines a neural network model named ModelBase. The model consists of several fully connected layers with different activation functions (sigmoid and tanh) to capture complex patterns in the data.
 ## Training Process:
-1. Training Loop: The model is trained using an Adam optimizer and mean squared error loss. The training loop runs for 200 epochs. For each epoch, the model is trained using batches of data.
+1. Training Loop: The model is trained using an Adam optimizer and mean squared error loss.
 
 2. __Real-Time Visualization__: During training, the code dynamically updates two plots in real-time:
 
